@@ -1,0 +1,9 @@
+Dataset,Rows,Columns,File Size (KB),Key Columns
+EPA Emission Factors,20,10,2.9,"NAICS_Code, Industry_Description, Transportation_Mode..."
+Climatiq Factors,72,15,16.8,"id, activity_id, name..."
+Climate TRACE,576,7,49.1,"date, region, transport_type..."
+Unified Factors,92,8,6.0,"source, transport_mode, emission_factor_kg_co2e_per_ton_km..."
+Network Nodes (100),100,7,8.6,"node_id, node_type, latitude..."
+Network Routes (100),299,8,26.8,"route_id, origin_node, destination_node..."
+Experimental Scenarios,100,12,6.5,"scenario_id, network_size, carbon_weight..."
+Optimization Results,100,14,12.2,"scenario_id, network_size, carbon_weight..."
